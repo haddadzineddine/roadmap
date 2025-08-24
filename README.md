@@ -1,5 +1,4 @@
-**# roadmap
-**# 🛠 Senior Software Engineer Roadmap (~2 years, 9h/week)
+# 🛠 Senior Software Engineer Roadmap (~2 years, 9h/week)
 
 You have **~118 weeks (2 years 3 months)** with a weekly capacity of **9h**.  
 This roadmap is divided into **4 phases**.
