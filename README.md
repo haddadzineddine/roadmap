@@ -12,7 +12,7 @@ This roadmap is divided into **4 phases**.
 - [ ] [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design) (122h)  
 - [ ] [Ace the Java Coding Interview](https://www.educative.io/path/ace-java-coding-interview) (181h)  
 - [ ] [Grokking Computer Networking for Software Engineers](https://www.educative.io/courses/grokking-computer-networking) (20h)  
-- [ ] [Deep Dive into the Internals of the Database](https://www.educative.io/courses/deep-dive-into-database-internals) (19h)  
+- [ ] [Deep Dive into the Internals of the Database](https://www.educative.io/courses/deep-dive-into-the-internals-of-the-database) (19h)  
 - [ ] [Domain Driven Design Made Easy](https://www.educative.io/courses/domain-driven-design-made-easy) (5h 20m)  
 - [ ] [Hexagonal Software Architecture for Web Applications](https://www.educative.io/courses/hexagonal-architecture-webapps) (6h 45m)  
 
