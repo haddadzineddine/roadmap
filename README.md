@@ -13,8 +13,8 @@ This roadmap is divided into **4 phases**.
 - [ ] [Ace the Java Coding Interview](https://www.educative.io/path/ace-java-coding-interview) (181h)  
 - [ ] [Grokking Computer Networking for Software Engineers](https://www.educative.io/courses/grokking-computer-networking) (20h)  
 - [ ] [Deep Dive into the Internals of the Database](https://www.educative.io/courses/deep-dive-into-the-internals-of-the-database) (19h)  
-- [ ] [Domain Driven Design Made Easy](https://www.educative.io/courses/domain-driven-design-made-easy) (5h 20m)  
-- [ ] [Hexagonal Software Architecture for Web Applications](https://www.educative.io/courses/hexagonal-architecture-webapps) (6h 45m)  
+- [ ] [Domain Driven Design Made Easy](https://www.educative.io/courses/domain-driven-design) (5h 20m)  
+- [ ] [Hexagonal Software Architecture for Web Applications](https://www.educative.io/courses/hexagonal-architecture-web-apps) (6h 45m)  
 
 ✅ **Outcome:** Strong in **system design, Java coding, and databases** → essential for interviews & senior roles.
 
@@ -24,12 +24,12 @@ This roadmap is divided into **4 phases**.
 🔑 Learn **distributed systems, Kubernetes, and cloud platforms**.  
 **Approx: 270h**
 
-- [ ] [Become a Distributed Systems Professional](https://www.educative.io/path/distributed-systems) (54h)  
-- [ ] [Become a Kubernetes Professional](https://www.educative.io/path/kubernetes) (60h)  
-- [ ] [Become an AWS Professional](https://www.educative.io/path/aws-professional) (35h 45m)  
-- [ ] [Become an Azure Expert](https://www.educative.io/path/azure-expert) (60h)  
-- [ ] [Operating Systems: Virtualization, Concurrency & Persistence](https://www.educative.io/courses/operating-systems) (40h)  
-- [ ] [Event-Driven Architecture in Golang](https://www.educative.io/courses/event-driven-architecture-golang) (35h)  
+- [ ] [Become a Distributed Systems Professional](https://www.educative.io/path/become-a-distributed-systems-professional) (54h)  
+- [ ] [Become a Kubernetes Professional](https://www.educative.io/path/become-a-kubernetes-professional) (60h)  
+- [ ] [Become an AWS Professional](https://www.educative.io/path/become-an-aws-professional) (35h 45m)  
+- [ ] [Become an Azure Expert](https://www.educative.io/path/become-an-azure-expert) (60h)  
+- [ ] [Operating Systems: Virtualization, Concurrency & Persistence](https://www.educative.io/courses/operating-systems-virtualization-concurrency-persistence) (40h)  
+- [ ] [Event-Driven Architecture in Golang](https://www.educative.io/courses/event-driven-architecture-in-golang) (35h)  
 
 ✅ **Outcome:** Able to build and deploy **scalable distributed applications in the cloud**.
 
@@ -41,10 +41,10 @@ This roadmap is divided into **4 phases**.
 
 - [ ] [DevOps for Developers](https://www.educative.io/path/devops-for-developers) (50h)  
 - [ ] [Cyber Security Fundamentals](https://www.educative.io/path/cyber-security-fundamentals) (41h)  
-- [ ] [Test-Driven Development in Java](https://www.educative.io/courses/tdd-in-java) (32h)  
+- [ ] [Test-Driven Development in Java](https://www.educative.io/courses/test-driven-development-in-java) (32h)  
 - [ ] [Software Design Patterns: Best Practices](https://www.educative.io/courses/software-design-patterns-best-practices) (8h)  
-- [ ] [Grokking the Low Level Design Interview Using OOD Principles](https://www.educative.io/courses/grokking-low-level-design) (70h)  
-- [ ] [Effective Software Development for Enterprise Applications](https://www.educative.io/courses/effective-enterprise-software-dev) (6h 45m)  
+- [ ] [Grokking the Low Level Design Interview Using OOD Principles](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principlesn) (70h)  
+- [ ] [Effective Software Development for Enterprise Applications](https://www.educative.io/courses/effective-software-development-enterprise-applications) (6h 45m)  
 - [ ] [The Art of PostgreSQL](https://www.educative.io/courses/the-art-of-postgresql) (65h)  
 
 ✅ **Outcome:** Master **DevOps, secure coding, testing, and patterns** → senior-level engineering quality.
@@ -55,13 +55,12 @@ This roadmap is divided into **4 phases**.
 🔑 Develop **leadership, communication, and interview prep skills**.  
 **Approx: 200h**
 
-- [ ] [Learn Agile Methodologies from Scratch](https://www.educative.io/courses/agile-methodologies) (20h)  
-- [ ] [Become an Effective Engineering Manager](https://www.educative.io/path/engineering-manager) (58h)  
+- [ ] [Learn Agile Methodologies from Scratch](https://www.educative.io/courses/learn-agile-methodologies-from-scratch) (20h)  
+- [ ] [Become an Effective Engineering Manager](https://www.educative.io/path/become-an-effective-engineering-manager-path) (58h)  
 - [ ] [Mastering Leadership Interviews](https://www.educative.io/courses/mastering-leadership-interviews) (10h)  
-- [ ] [Grokking the Product Architecture Interview](https://www.educative.io/courses/grokking-product-architecture) (20h)  
-- [ ] [Grokking the Frontend System Design Interview](https://www.educative.io/courses/grokking-frontend-system-design) (10h)  
-- [ ] [Cursor AI for Enterprise](https://www.educative.io/courses/cursor-ai-for-enterprise) (8h)  
-- [ ] Remaining review + mock interviews (~74h buffer)  
+- [ ] [Grokking the Product Architecture Interview](https://www.educative.io/courses/grokking-the-product-architecture-interview) (20h)  
+- [ ] [Grokking the Frontend System Design Interview](https://www.educative.io/courses/grokking-frontend-system-design-interview) (10h)  
+- [ ] [Cursor AI for Enterprise](https://www.educative.io/courses/advanced-cursor-ai) (8h)  
 
 ✅ **Outcome:** Ready for **system design + leadership interviews** and able to guide teams.
 
