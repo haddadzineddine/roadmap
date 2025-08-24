@@ -5,9 +5,9 @@ This roadmap is divided into **4 phases**.
 
 ---
 
-## 📍 Phase 1: Core Foundations (Weeks 1–35, ~9 months)
+## 📍 Phase 1: Core Foundations (Weeks 1–39, ~9 months)
 🔑 Build strong fundamentals in **system design, Java, databases, and networking**.  
-**Approx: 315h**
+**Approx: 354h**
 
 - [ ] [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design) (122h)  
 - [ ] [Ace the Java Coding Interview](https://www.educative.io/path/ace-java-coding-interview) (181h)  
@@ -20,9 +20,9 @@ This roadmap is divided into **4 phases**.
 
 ---
 
-## 📍 Phase 2: Distributed Systems & Cloud (Weeks 36–63, ~7 months)
+## 📍 Phase 2: Distributed Systems & Cloud (Weeks 40–71, ~8 months)
 🔑 Learn **distributed systems, Kubernetes, and cloud platforms**.  
-**Approx: 270h**
+**Approx: 284h**
 
 - [ ] [Become a Distributed Systems Professional](https://www.educative.io/path/become-a-distributed-systems-professional) (54h)  
 - [ ] [Become a Kubernetes Professional](https://www.educative.io/path/become-a-kubernetes-professional) (60h)  
@@ -35,15 +35,14 @@ This roadmap is divided into **4 phases**.
 
 ---
 
-## 📍 Phase 3: DevOps, Security & Advanced Software Design (Weeks 64–93, ~7 months)
+## 📍 Phase 3: DevOps, Security & Advanced Software Design (Weeks 72–94, ~6 months)
 🔑 Learn **DevOps, CI/CD, security, TDD, and advanced design principles**.  
-**Approx: 270h**
+**Approx: 203h**
 
 - [ ] [DevOps for Developers](https://www.educative.io/path/devops-for-developers) (50h)  
 - [ ] [Cyber Security Fundamentals](https://www.educative.io/path/cyber-security-fundamentals) (41h)  
 - [ ] [Test-Driven Development in Java](https://www.educative.io/courses/test-driven-development-in-java) (32h)  
 - [ ] [Software Design Patterns: Best Practices](https://www.educative.io/courses/software-design-patterns-best-practices) (8h)  
-- [ ] [Grokking the Low Level Design Interview Using OOD Principles](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principlesn) (70h)  
 - [ ] [Effective Software Development for Enterprise Applications](https://www.educative.io/courses/effective-software-development-enterprise-applications) (6h 45m)  
 - [ ] [The Art of PostgreSQL](https://www.educative.io/courses/the-art-of-postgresql) (65h)  
 
@@ -51,9 +50,9 @@ This roadmap is divided into **4 phases**.
 
 ---
 
-## 📍 Phase 4: Leadership, Interviews & Agile (Weeks 94–118, ~6 months)
+## 📍 Phase 4: Leadership, Interviews & Agile (Weeks 95–118, ~6 months)
 🔑 Develop **leadership, communication, and interview prep skills**.  
-**Approx: 200h**
+**Approx: 126h**
 
 - [ ] [Learn Agile Methodologies from Scratch](https://www.educative.io/courses/learn-agile-methodologies-from-scratch) (20h)  
 - [ ] [Become an Effective Engineering Manager](https://www.educative.io/path/become-an-effective-engineering-manager-path) (58h)  
@@ -67,9 +66,9 @@ This roadmap is divided into **4 phases**.
 ---
 
 # ⏳ Timeline Overview
-- **Phase 1 (Core Foundations):** ~9 months  
-- **Phase 2 (Distributed Systems & Cloud):** ~7 months  
-- **Phase 3 (DevOps & Advanced Design):** ~7 months  
-- **Phase 4 (Leadership & Interviews):** ~6 months  
+- **Phase 1 (Core Foundations):** ~9 months → 354h  
+- **Phase 2 (Distributed Systems & Cloud):** ~8 months → 284h  
+- **Phase 3 (DevOps & Advanced Design):** ~6 months → 203h  
+- **Phase 4 (Leadership & Interviews):** ~6 months → 126h  
 
-**Total = ~2 years 3 months (118 weeks at 9h/week)** 🎯
+**Total = 967h (~2 years 3 months, 118 weeks at 9h/week = 1,062h capacity)** 🎯
