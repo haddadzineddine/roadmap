@@ -73,7 +73,7 @@ This roadmap is divided into **4 phases**.
 
 **Total = 967h (~2 years 3 months, 118 weeks at 9h/week = 1,062h capacity)** 🎯
 
-
+---
 
 ## 📍Others
 
