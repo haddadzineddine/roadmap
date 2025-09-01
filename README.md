@@ -72,3 +72,9 @@ This roadmap is divided into **4 phases**.
 - **Phase 4 (Leadership & Interviews):** ~6 months → 126h  
 
 **Total = 967h (~2 years 3 months, 118 weeks at 9h/week = 1,062h capacity)** 🎯
+
+
+
+## 📍Others
+
+- [ ] [Node.js Design Patterns]([https://www.educative.io/courses/learn-agile-methodologies-from-scratch](https://www.educative.io/courses/nodejs-design-patterns)) (45h) 
