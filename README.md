@@ -77,4 +77,5 @@ This roadmap is divided into **4 phases**.
 
 ## 📍Others
 
-- [ ] [Node.js Design Patterns](https://www.educative.io/courses/nodejs-design-patterns) (45h) 
+- [ ] [Node.js Design Patterns](https://www.educative.io/courses/nodejs-design-patterns) (45h)
+- [ ] [Mastering TypeScript](https://www.educative.io/courses/mastering-typescript) (48h) 
