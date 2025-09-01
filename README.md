@@ -77,4 +77,4 @@ This roadmap is divided into **4 phases**.
 
 ## 📍Others
 
-- [ ] [Node.js Design Patterns]([https://www.educative.io/courses/learn-agile-methodologies-from-scratch](https://www.educative.io/courses/nodejs-design-patterns)) (45h) 
+- [ ] [Node.js Design Patterns](https://www.educative.io/courses/nodejs-design-patterns) (45h) 
